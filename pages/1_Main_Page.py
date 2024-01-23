@@ -9,7 +9,7 @@ import plotly.graph_objects as go
 from folium.plugins import MarkerCluster
 
 
-import inflection
+
 import folium
 from haversine import haversine
 import streamlit as st
