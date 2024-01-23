@@ -17,7 +17,7 @@ from PIL import Image
 import streamlit as st
 from streamlit_folium import folium_static
 
-st.set_page_config(page_title="Culinárias")
+st.set_page_config(page_title="Culinárias",page_icon='', layout='wide')
 
 #--------------------------------------------
 
