@@ -19,7 +19,7 @@ from PIL import Image
 from streamlit_folium import folium_static
 
 #--------------------------------------------
-st.set_page_config(page_title="Cidades")
+st.set_page_config(page_title="Cidades",page_icon='', layout='wide')
 
 
 
