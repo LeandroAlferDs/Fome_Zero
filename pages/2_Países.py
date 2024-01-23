@@ -16,7 +16,7 @@ import streamlit as st
 from PIL import Image
 from streamlit_folium import folium_static
 
-st.set_page_config(page_title="Países")
+st.set_page_config(page_title="Países",page_icon='', layout='wide')
 
 #--------------------------------------------
 
