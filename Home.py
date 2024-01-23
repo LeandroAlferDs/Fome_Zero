@@ -39,8 +39,8 @@ st.markdown(
 
     - Visão Culinárias: 
         - Acompanhamento dos indicadores de crescimento dos restaurantes por Culinária.
-    Nesta seção, tem dois filtros a mais que nas anteriores, onde abrange as informações
-    das diferentes Culinárias, e um filtro de arraste onde o usuário controla através de um slider a
+    Nesta seção, tem dois filtros a mais que nas anteriores, onde abrange 
+    as informações das diferentes Culinárias, e um filtro de arraste onde o usuário controla através de um slider a
     quantidade de informações por gráfico ou tabela.
     
 
