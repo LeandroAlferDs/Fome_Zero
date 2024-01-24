@@ -163,7 +163,7 @@ options = st.sidebar.multiselect (
     ['India','Australia', 'Brazil', 'Canada', 'Indonesia',
     'New Zeland', 'Philippines','Qatar', 'Singapure','South Africa', 'Sri Lanka','Turkey', 'United Arab Emirates','England', 'United States of America'],
 
-    ['Brazil','Canada','England','Australia','Qatar','India'] )
+    ['Brazil'] )
 
 
 #filtro de trânsito
